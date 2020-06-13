@@ -1,6 +1,15 @@
 Manage services.
 Supports SystemV init or systemd.
-Example:
+
+## Installation
+
+Available [on PyPI](https://pypi.org/project/initsystem):
+
+```
+pip install initsystem
+```
+
+## Example
 
 ```python
 >>> from initsystem import Service

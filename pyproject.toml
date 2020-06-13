@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "initsystem"
-version = "0.1.0"
+version = "0.2.0"
 description = "init-system-agnostic way to start, stop and check statuses of services"
 authors = ["ewen-lbh <ewen.lebihan7@gmail.com>"]
 license = "MIT"
